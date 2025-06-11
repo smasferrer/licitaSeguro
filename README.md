@@ -15,7 +15,7 @@ Este proyecto es una aplicación web desarrollada en React + Vite, diseñada par
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/smasferrer/tejelanas.git
+   git clone https://github.com/smasferrer/licitaSeguro
 
 2. Instala las dependencias:
 
