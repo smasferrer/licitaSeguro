@@ -15,7 +15,7 @@ Este proyecto es una aplicación web desarrollada en React + Vite, diseñada par
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/smasferrer/licitaSeguro
+   git clone https://github.com/smasferrer/licitaSeguro.git
 
 2. Instala las dependencias:
 
@@ -46,3 +46,10 @@ El propósito de LicitaSeguro es simplificar el acceso a datos abiertos del Esta
 ## Link prototipo
 
 https://www.figma.com/proto/P1Sxct4k5UN2t441UCyQeH/Beered?node-id=165-584&t=0QBApAx9Pu7NFG7H-1
+
+## ✍️ Autores
+
+- **Loretto Herrera**  
+- **Sebastián Masferrer**  
+  Estudiante de Desarrollo Frontend  
+  Instituto Profesional San Sebastián
