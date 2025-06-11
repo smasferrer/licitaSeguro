@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+body {
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  background: #401056;
+  background: linear-gradient(180deg, rgb(55, 7, 97) 0%, rgb(9, 2, 60) 100%);
+  color: #ffffff;
+  min-height: 100vh;
+}
+
+html {
+  min-height: 100%;
+}
+
+html, body {
+  width: 100%;
+  overflow-x: hidden;
+  font-size: 16px;
+}
+
+/*Correción de ícono en input de calendario*/
+input[type='date']::-webkit-calendar-picker-indicator {
+  background: transparent;
+  bottom: 0;
+  color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: auto;
+}
